@@ -1,0 +1,3 @@
+# Core Theory
+
+This folder contains the foundational concepts of the Belt Framework...

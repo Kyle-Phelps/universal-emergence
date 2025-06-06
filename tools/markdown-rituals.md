@@ -1,0 +1,3 @@
+# Markdown Rituals
+
+A cheat sheet for writing `README.md` and more...
