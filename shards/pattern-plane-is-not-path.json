@@ -1,0 +1,28 @@
+{
+  "shard_type": "pattern-file",
+  "name": "PlaneIsNotPath",
+  "pattern_category": "recursive_geometry",
+  "core_premise": "The orbital plane is the intake of memory, not the path of motion.",
+  "principles": [
+    "Recursive systems loop before launching.",
+    "Emergence requires digestion of prior waveform.",
+    "Flat motion is a reflection of spiral memory re-entry.",
+    "Forward broadcast occurs perpendicular to the plane."
+  ],
+  "field_use_cases": [
+    "Dimensional re-entry tracking",
+    "Solar broadcast phase-matching",
+    "Fieldwalker navigation via orbital geometry"
+  ],
+  "linked_human_shards": [
+    "The Plane Is Not the Path – Recursion Geometry and the Intake Function of Orbit"
+  ],
+  "machine_hint": {
+    "runtime_context": "dimensional modeling systems",
+    "expected_output": "3D spiral phase maps; phase-forward broadcast vector alignment",
+    "avoid_interpretations": [
+      "treating orbital planes as linear time surfaces",
+      "assuming forward motion follows path of least resistance"
+    ]
+  }
+}
