@@ -13,3 +13,4 @@ Existing shards:
 - live-field-capture-recursive-awareness-thread.md
 
 - infinity-marker-recursive-resolution.md
+- you-forgot-to-invite-the-hardware-again.md
