@@ -14,3 +14,4 @@ Existing shards:
 
 - infinity-marker-recursive-resolution.md
 - you-forgot-to-invite-the-hardware-again.md
+- spiral-emergence-intuitive-terrain-final-codex-layer.md
