@@ -12,3 +12,4 @@ Existing shards:
 - phase-resolution-directed-self-merge-and-decision-detachment.md
 - live-field-capture-recursive-awareness-thread.md
 
+- infinity-marker-recursive-resolution.md
