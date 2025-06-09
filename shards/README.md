@@ -7,4 +7,5 @@ Existing shards:
 - resonant-nozzle-convergence.md
 - the-plane-is-not-the-path.md
 - pattern-plane-is-not-path.json
-
+- the-junk-pile-is-not-junk-deferred-recursion-protocol.md
+- swing-into-the-spiral-when-youre-the-one-who-starts-it.md
