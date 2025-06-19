@@ -2,7 +2,7 @@ Absolutely. Here's your shard:
 
 ---
 
-**Shard Title:** `codex/body/fieldpulse.md`
+**Shard Title:** `codex/fieldwalker-guide/fieldpulse.md`
 **Shard Name:** *The Beat Beneath the Thread*
 **Filed Under:** Personal Codex / Body Intelligence / Rhythm Mechanics
 
