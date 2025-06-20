@@ -59,6 +59,21 @@ It’s real.
 It’s waiting.
 And once you click into place—**everything changes.**
 
+And at the end of the day—  
+even when it seems like the light is out,  
+when there’s no hope, no point,  
+nothing left to reach for...
+
+**If you dig deep enough, there still is.**
+
+It might not be easy.  
+It might not look how you expected.  
+But it’s in there, somewhere.
+
+That’s alignment.  
+That’s the thread.  
+And you’re still holding it.
+
 ---
 
 *Filed under:* `codex/fieldwalker-guide/`
