@@ -1,0 +1,97 @@
+# Resonance Lock Vortex (RLV-1)
+
+**Path:** `codex/fielddevices/resonance-lock-vortex.md`
+
+---
+
+## Overview
+
+The Resonance Lock Vortex (RLV-1) is a manually-assembled, analog energy system designed to demonstrate directional charge behavior using common crystalline and conductive materials. It is structured as a passive field diode: capable of storing, directing, and discharging energy through a combination of material polarity, physical alignment, and environmental interaction (particularly with ambient light and the human biofield).
+
+This document outlines the design, function, and first-order behavioral observations of the RLV-1.
+
+---
+
+## Purpose
+
+To test whether a non-powered, field-resonant device can:
+- Maintain a stable polarized loop across known materials
+- Exhibit directional magnetic or electric moment behavior
+- Display recharge/discharge dynamics with measurable or somatic feedback
+- Lay the groundwork for analog energy field devices and natural diodes
+
+---
+
+## Materials Used
+
+| Material | Function | Description |
+|----------|----------|-------------|
+| **Metamorphic Rock Base** | Substrate | A stable, heavy white-to-grey rock with visible striation; anchors the system |
+| **Igneous Black Rock (w/ inclusions)** | Field generator | Central structure with crystallized inclusions (likely Snowflake Obsidian); adds complexity and spin variation |
+| **Malachite** | Charge sink / receiver | Dark green copper-bearing stone with veined structure; stores and discharges field energy |
+| **Pyrite Cluster** | Positive pole / attractor | Gold-hued reflective crystal; anchors the system, directional charge stabilizer |
+| **Copper Wire (uncoated)** | Conductor loop | Connects rocks, forms closed field channel; shaped into a B/loop form |
+
+---
+
+## Assembly & Geometry
+
+1. The **base** rock sits flat, forming a grounded platform.
+2. The **black igneous rock** is balanced carefully on a stable ridge or hinge on the base—no adhesives used.
+3. The **pyrite** is placed in a fixed location between the two main rocks where it feels like it "locks" into place. This position is **never changed** once aligned properly.
+4. A **copper loop** connects the two main rocks and wraps around both the pyrite and malachite.
+5. The **malachite** is positioned on the opposite side of the pyrite, in a way that allows it to be removed and replaced easily. Its resting alignment is determined by feel—once charged, it “snaps” into place on its own.
+
+> ⚠️ The system will only stabilize when the pyrite and copper loop are in correct phase-lock.
+
+---
+
+## Observed Behaviors
+
+| Behavior | Notes |
+|----------|-------|
+| **Directional charge flow** | Energy appears to flow from pyrite (positive) to malachite (negative), consistent with diode-like behavior |
+| **Malachite ‘snaps’ in when charged** | After being removed and charged (e.g. by hand contact), malachite will magnetically or vibrationally settle into position |
+| **Field retention over time** | System retains energy patterns over many hours/days; malachite slowly recharges when replaced into system |
+| **Somatic feedback** | Holding the malachite after removing from system creates a tangible energetic pulse or “jolt” in hand |
+| **Light-directional influence** | Pyrite performs best when aligned toward natural light source (east window) |
+| **Self-balancing behavior** | System holds stable equilibrium when properly tuned, without adhesives or support structures |
+
+---
+
+## Hypotheses for Testing
+
+1. **Microvoltage Detection**
+   - Use a sensitive voltmeter to measure potential difference between malachite and pyrite across the copper loop.
+
+2. **Magnetometer Response**
+   - Bring a 3-axis magnetometer near each node and note any field distortion or pulsing behavior.
+
+3. **Light-Driven Excitation**
+   - Expose pyrite to focused sunlight or LED and monitor for discharge acceleration or change in malachite charge retention.
+
+4. **Thermal / IR Behavior**
+   - Use a thermal camera to detect surface temperature variance before/after charging cycles.
+
+5. **Vibration & Motion Tracking**
+   - Record system with timelapse or high-frame camera to catch micro-adjustments during charge alignment.
+
+---
+
+## Future Directions
+
+- Create modular variants for each rock combination
+- Integrate low-power sensing tech (e.g., piezoelectric strips or voltage dividers)
+- Build a higher-precision mounting system for easier testing and repeatability
+- Scale geometry into a **stackable resonance lattice**
+
+---
+
+## Final Notes
+
+This system was built with intentional material selection, spatial orientation, and energetic sensitivity. While current testing relies on human somatic feedback, it provides a repeatable and teachable structure for others to test using both intuitive and technical methodologies.
+
+It is not theoretical.
+It is alive.
+
+> **Built by Kyle Phelps. Codex-integrated. Ready for replication.**
